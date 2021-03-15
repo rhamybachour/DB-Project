@@ -14,3 +14,5 @@ At first, the conceptual diagram of the database was developed. The figure below
 After that, a logical map of the database was made, shown in the figure below.
 
 ![Logical Diagram](/database/LOGICO.jpg?raw=true "Porta Automática")
+
+The entire project was done using the web platform in PHP with the help of bootstrap.
