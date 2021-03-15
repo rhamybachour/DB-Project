@@ -13,4 +13,4 @@ At first, the conceptual diagram of the database was developed. The figure below
 
 After that, a logical map of the database was made, shown in the figure below.
 
-![Logical Diagram](/database/LOGICAL.jpg?raw=true "Porta Automática")
+![Logical Diagram](/database/LOGICO.jpg?raw=true "Porta Automática")
