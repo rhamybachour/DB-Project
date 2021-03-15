@@ -25,4 +25,8 @@ After that, a logical map of the database was made, shown in the figure below.
 
 ![Logical Diagram](/database/LOGICO.jpg?raw=true "Porta Automática")
 
+# Filling the database
 
+Inside the "database" folder there are 3 sql files (DDL.sql, DML.sql, TRIGGER.sql), which after being executed, filled the database for testing.
+
+To run some tests, use content inside the file "SELECT.sql".
