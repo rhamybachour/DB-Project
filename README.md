@@ -6,7 +6,7 @@ This project involved making a complete database on an available topic.
 The chosen theme was Bank, in which a database was designed with the aim of meeting all the functionalities available in an ATM.
 
 
-# Conceptual Map
+# Concept Map
 At first, the conceptual diagram of the database was developed. The figure below shows its final version.
 
 ![Conceptual Diagram](/database/CONCEITUAL.jpg?raw=true "Porta Automática")
