@@ -10,8 +10,8 @@ The chosen theme was Bank, in which a database was designed with the aim of meet
 - PHP
 - WAMP
 - Javascript
-- PostgreSQL
 - Bootstrap
+- PostgreSQL
 
 
 # Concept Map
