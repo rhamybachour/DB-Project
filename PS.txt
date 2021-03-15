@@ -1,0 +1,4 @@
+ACTIVE EXTENSIONS ON WAMP/LAMP
+Apache - > rewrite_module
+PHP - > php_pdo_pgsql
+PHP - > php_pgsql
