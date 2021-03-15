@@ -9,4 +9,4 @@ The chosen theme was Bank, in which a database was designed with the aim of meet
 
 At first, the conceptual diagram of the database was developed. The figure below shows its final version.
 
-![Conceptual Diagram](https://github.com/rhamybachour/DB-Project/tree/main/database/CONCEITUAL.jpg)
+![Conceptual Diagram](/database/CONCEITUAL.jpg?raw=true "Porta Automática")
