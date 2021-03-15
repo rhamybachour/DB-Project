@@ -27,6 +27,10 @@ After that, a logical map of the database was made, shown in the figure below.
 
 # Filling the database
 
-Inside the "database" folder there are 3 sql files (DDL.sql, DML.sql, TRIGGER.sql), which after being executed, filled the database for testing.
+Inside the "database" folder there are 3 sql files which after being executed, filled the database for testing.
+
+-  DDL.sql (Make the role database)
+-  DML.sql (Fill the database)
+-  TRIGGER.sql (Make the transaction rules of the database)
 
 To run some tests, use content inside the file "SELECT.sql".
